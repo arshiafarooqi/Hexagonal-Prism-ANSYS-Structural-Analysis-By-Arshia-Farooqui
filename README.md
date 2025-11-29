@@ -6,7 +6,7 @@ This repository contains the documentation and results of a structural analysis 
 
 📂 Contents of the Repository
 1. Project Report (PDF)
-2. 2. Presentation (in PDF form)
+2. Presentation (in PDF form)
 
 A detailed engineering report and presentation containing:
 
